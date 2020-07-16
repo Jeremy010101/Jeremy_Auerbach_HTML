@@ -74,6 +74,11 @@ a:visited {
 
 .side {
     float: right;
-    text-align: right;
+    width: 20%;
     margin-top: -50px;
+    text-justify: auto;
+    margin-left: 100px;
+    border: 3px brown solid;
+    border-radius: 10px;
+    padding: 10px; /* marges intérieures */
 }
